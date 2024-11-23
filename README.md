@@ -17,19 +17,19 @@ The dataset contains information related to direct marketing campaigns, includin
 
 ## 🔍  Analysis Steps
 
- 1.	**Dataset loading and exploration:**
+ 1.	📂 **Dataset loading and exploration:**
 	-	Loaded the dataset from kaggle
 	-	Inspected its structure and key features
- 2. **Handling missing values:**
+ 2. 🛠️ **Handling missing values:**
 	- Introduced missing values artificially
 	- Imputed missing values using mean for numerical and mode for categorical features.
- 3.	**Exploratory Data Analysis (EDA):**
+ 3.	📊 **Exploratory Data Analysis (EDA):**
 	- Explored the dataset through histograms, bar plots, and heatmaps.
 	-	Performed correlation analysis to identify relationship between numerical features.
- 4. **Feature selection and engineering:**
+ 4. 🧬 **Feature selection and engineering:**
 	 - Encoded categorical features using one-hot and binary mapping.
 	-	Identified more correlated features and removed to avoid multicollinearity.
- 5. **Conclusion and insights:**
+ 5. ✅ **Conclusion and insights:**
     - Derived insights into factors influencing customer subscription to term deposits.
     - Suggested actionable recomments based on the findings.
 
